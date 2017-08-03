@@ -34,6 +34,8 @@ namespace Form_Post.Controllers
         // DELETE: api/Test/5
         public void Delete(int id)
         {
+            string a;
+
         }
     }
 }
